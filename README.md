@@ -18,7 +18,7 @@ A lightweight Python-based Intrusion Detection System that monitors real-time TC
 
 ## 🖥️ GUI Preview
 
-<img src="https://via.placeholder.com/600x300?text=IDS+GUI+Preview" alt="GUI Screenshot" width="600"/>
+<img src="gui_screenshot.png" alt="IDS GUI Screenshot" width="600"/>
 
 ---
 
